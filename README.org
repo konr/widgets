@@ -1,4 +1,4 @@
-* On why this is the ultimate emacs package
+* Work in progress. Pre-alpha.
 
   Don't you feel a hole in your chest without a floating box
   on the right giving you misc information on whatever you are
@@ -6,28 +6,54 @@
   
 * Screenshot
   
-#+BEGIN_SRC=Ascii
-  
-         o8%8888,    
-       o88%8888888.  
-      8'-    -:8888b   
-     8'         8888  
-    d8.-=. ,==-.:888b  
-    >8 `~` :`~' d8888   
-    88         ,88888   
-    88b. `-~  ':88888  
-    888b ~==~ .:88888 
-    88888o--:':::8888      
-    `88888| :::' 8888b  
-    8888^^'       8888b  
-   d888           ,%888b.   
-  d88%            %%%8--'-.  
- /88:.__ ,       _%-' ---  -  
-     '''::===..-'   =  --.  `
-#+END_SRC
+  [[http://i.imgur.com/DHzCV5M.png]]
 
 * Join us now and share the software!
 
   Here are some ideas on what could be tracked:
-  - [ ] Foo
-  - [ ] Bar 
+  - [ ] Free
+  - [ ] Hackers 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
